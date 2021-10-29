@@ -8,6 +8,8 @@ describe('User reducer tests', () => { //this is just for you to see in terminal
         // expect(output).toBeDefined();
         done();
         //DO MORE TESTS!
+        //i am testing description stuff
+        
     }) 
 });
 
