@@ -7,7 +7,7 @@ describe('User reducer tests', () => { //this is just for you to see in terminal
         expect(typeof output).toBe('object'); //expect will give you a pass or fail
         // expect(output).toBeDefined();
         done();
+        //DO MORE TESTS!
     }) 
 });
 
-//unsure of what to expect?? 
